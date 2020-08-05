@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/patrickferdinan)](https://github.com/patrickferdinan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/patrick-ferdinan-73136815a/)](https://www.linkedin.com/in/patrick-ferdinan-73136815a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickferdinan@gmail.com)](mailto:patrickferdinan@gmail.com)
-</p>
 
 
   [![Github Status](https://github-readme-stats.vercel.app/api?username=patrickferdinan&show_icons=true&title_color=00a6c0&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/patrickferdinan/patrickferdinan)
