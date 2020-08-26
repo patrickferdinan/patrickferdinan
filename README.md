@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Olá!
 
-<p>💜 Apaixonado por tecnologia e desenvolvimento web estou dando os meu primeiros passos neste mundo fantástico 🚀.</p>
+<p>💜 Apaixonado por tecnologia e desenvolvimento web estou dando os meu primeiros passos neste mundo fantástico, precisa de ajuda com algo? vamos bater um papo! 🚀.</p>
 
 
 
