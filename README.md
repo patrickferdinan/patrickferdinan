@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   [![Github Status](https://github-readme-stats.vercel.app/api?username=patrickferdinan&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515)](https://github.com/patrickferdinan/patrickferdinan)
 
-## Tecnologias
+## Techs
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">&nbsp;<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" style="vertical-align:top; margin:4px">&nbsp;<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" style="vertical-align:top; margin:4px">
 
