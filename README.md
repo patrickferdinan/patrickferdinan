@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 # Patrick Ferdinan
 
-## Olá!
+## Hi!
 
-<p>💜 Apaixonado por tecnologia e desenvolvimento web estou dando os meu primeiros passos neste mundo fantástico, precisa de ajuda com algo? vamos bater um papo! 🚀.</p>
+<p>My name is Patrick Ferdinan, I'm enthusiastic about web development, I'm improving myself on the Reactjs and Nodejs techs.</p>
 
 
 
