@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Patrick Ferdinan
-
 ## Hi!
 
-<p>My name is Patrick Ferdinan, I'm enthusiastic about web development, I'm improving myself on the Reactjs and Nodejs techs.</p>
+<p>My name is Patrick Ferdinan, I'm enthusiastic about web development, I'm improving myself on the Reactjs💜 and Nodejs💚 techs.</p>
 
 
 
