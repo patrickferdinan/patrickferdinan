@@ -44,12 +44,14 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/30/000000/notion.png" title="notion"/>&ensp;&ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
   
-  ##
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/patrickferdinan)](https://github.com/patrickferdinan)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/patrick-ferdinan-73136815a/)](https://www.linkedin.com/in/patrick-ferdinan-73136815a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickferdinan@gmail.com)](mailto:patrickferdinan@gmail.com)
-
-  
+  ## Contacts
+ 
+ <div>
+  <a href="https://www.linkedin.com/in/patrick-ferdinan-73136815a/" target="blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px">&ensp;&ensp;</a>
+  <a href="mailto:patrickferdinan@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" title="patrickferdinan@gmail.com" width="30px">&ensp;&ensp;</a>
+  <a href="https://app.rocketseat.com.br/me/patrick-ferdinan-1566796799" target="blank"><img src="./assets/rocketseat.png" title="rocketseat" width="30px">&ensp;</a>
+  <a href="https://codepen.io/patrickferdinan" target="blank"><img src="https://img.icons8.com/ios/30/000000/codepen.png" title="codepen"/></a>
+</div>
 
 
 
