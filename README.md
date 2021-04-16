@@ -27,9 +27,31 @@ Here are some ideas to get you started:
 
 
   [![Github Status](https://github-readme-stats.vercel.app/api?username=patrickferdinan&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515)](https://github.com/patrickferdinan/patrickferdinan)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickferdinan&&langs_count=8&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="patrickferdinan" height="165" align="center"/>
 
-## Techs
+## Experience
+  <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="30px" title="html5">&ensp;&ensp;
+  <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
+  <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
+  
+## Learning
+  <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
+  <img src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
+  <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
+  <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
+  <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs"/>&ensp;&ensp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="30px" title="nextjs"/>&ensp;&ensp;
+  
+## Tools
+  <img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png" title="vscode"/>&ensp;&ensp;
+  <img src="https://img.icons8.com/color/30/000000/git.png" title="git"/>&ensp;&ensp;
+  <img src="https://img.icons8.com/material-sharp/30/000000/github.png" title="github"/>&ensp;&ensp;
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width="30px" title="insomnia">&ensp;&ensp;
+  <img src="https://img.icons8.com/color/30/000000/notion.png" title="notion"/>&ensp;&ensp;
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
+  
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">&nbsp;<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" style="vertical-align:top; margin:4px">&nbsp;<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" style="vertical-align:top; margin:4px">
+
+
 
 
