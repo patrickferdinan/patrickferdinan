@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <div>
  <p>My name is Patrick Ferdinan, I'm enthusiastic about web development, I'm improving myself on the Reactjs💜 and Nodejs💚 techs.</p>
 </div>
-<img src="./assets/patrickferdinan.png" align="center">
+<div align="center">
+  <img src="./assets/patrickferdinan.png" align="center">
+</div>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=patrickferdinan&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515" height="165" align="left"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickferdinan&&langs_count=8&layout=compact&text_color=00a6c0&title_color=00a6c0&bg_color=151515&icon_color=00a6c0" alt="patrickferdinan" height="165" align="center"/>
 </div>
