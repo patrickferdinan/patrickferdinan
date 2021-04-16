@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi!
-
-<p>My name is Patrick Ferdinan, I'm enthusiastic about web development, I'm improving myself on the Reactjs💜 and Nodejs💚 techs.</p>
-<img src="./assets/patrickferdinan.png" align="right">
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/patrickferdinan)](https://github.com/patrickferdinan)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/patrick-ferdinan-73136815a/)](https://www.linkedin.com/in/patrick-ferdinan-73136815a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickferdinan@gmail.com)](mailto:patrickferdinan@gmail.com)
+<div>
+ <p>My name is Patrick Ferdinan, I'm enthusiastic about web development, I'm improving myself on the Reactjs💜 and Nodejs💚 techs.</p>
+ <img src="./assets/patrickferdinan.png" align="right">
+</div>
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=patrickferdinan&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515" height="165" align="left"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickferdinan&&langs_count=8&layout=compact&text_color=00a6c0&title_color=00a6c0&bg_color=151515&icon_color=00a6c0" alt="patrickferdinan" height="165" align="center"/>
@@ -45,6 +42,12 @@ Here are some ideas to get you started:
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width="30px" title="insomnia">&ensp;&ensp;
   <img src="https://img.icons8.com/color/30/000000/notion.png" title="notion"/>&ensp;&ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
+  
+  ##
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/patrickferdinan)](https://github.com/patrickferdinan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/patrick-ferdinan-73136815a/)](https://www.linkedin.com/in/patrick-ferdinan-73136815a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickferdinan@gmail.com)](mailto:patrickferdinan@gmail.com)
+
   
 
 
