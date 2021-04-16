@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <br/><br/>
 <div align="center">
-  <img src="./assets/patrickferdinan.png" align="center">
+  <img src="./assets/patrickferdinan1.png" align="center">
 </div>
 <br/><br/>
 <div align="center">
