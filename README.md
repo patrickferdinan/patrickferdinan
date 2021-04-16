@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi!
 
 <p>My name is Patrick Ferdinan, I'm enthusiastic about web development, I'm improving myself on the Reactjs💜 and Nodejs💚 techs.</p>
-<img src="./assets/Group 509.png" align="right">
+<img src="./assets/patrickferdinan.png" align="right">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/patrickferdinan)](https://github.com/patrickferdinan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/patrick-ferdinan-73136815a/)](https://www.linkedin.com/in/patrick-ferdinan-73136815a/)
